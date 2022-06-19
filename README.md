@@ -6,7 +6,8 @@ windows10 , python3.10
 # 引用库
 turtle keword re request random bs4,如未安装相关库，请自行使用pip或其他方式安装
 
-# 运行 main.py
+# 运行 
+main.py
 
 # 目录
 1.引用turtle库写汉字
